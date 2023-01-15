@@ -13,6 +13,7 @@ Underscores
 ## Certified Public Accountant (CPA):
 A professional certification offered by the American Institute of Certified Public Accountants (AICPA) and other accountancy bodies around the world. The CPA program covers topics such as financial accounting, auditing, and taxation.
 ---
+Underscores
 
 ## Certified Management Accountant (CMA): 
 A professional certification offered by the Institute of Management Accountants (IMA) that focuses on financial management and strategic decision-making.
